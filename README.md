@@ -9,3 +9,7 @@ Simple website project constructed with only HTML and CSS, with the goal of exer
 ## Tecnologias | Technologies
 
 HTML + CSS, no frameworks or dependencies.
+
+## Live Project
+
+Access https://projeto-annabella-chi.vercel.app/ to see a live version of the project.
