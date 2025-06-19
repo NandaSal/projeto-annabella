@@ -36,6 +36,12 @@ a {
     padding: 5px;
 }
 
+a:hover {
+    font-weight: bolder;
+    text-decoration: underline;
+    color: black;
+}
+
 footer {
     text-align: center;
 }
